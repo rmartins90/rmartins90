@@ -1,6 +1,6 @@
 <h2>👋 Hi there. I'm Rui Martins</h2>
 
-Software Engineer with a particular taste for frontend development.
+Software Engineer with a particular interest in implementing performant and good user interfaces.
 
 - 🔭 I’m currently working at [Infraspeak](https://infraspeak.com/) as a Team Lead
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-rui-martins-/)
