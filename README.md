@@ -2,9 +2,8 @@
 
 Software Engineer with a particular interest in implementing performant and good user interfaces.
 
-- 🔭 I’m currently working at [Infraspeak](https://infraspeak.com/) as a Team Lead
+- 🔭 I’m currently working at [Infraspeak](https://infraspeak.com/) as Software Engineering Team Lead
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-rui-martins-/)
-- ⚡ Fun fact: I'm also musician
 
 <hr>
 
