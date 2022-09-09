@@ -1,6 +1,6 @@
 <h2>👋 Hi there. I'm Rui Martins</h2>
 
-Software Engineer with a particular interest in implementing performant and good user interfaces.
+T-shaped Software Engineer with a particular interest in implementing performant and good user interfaces.
 
 - 🔭 I’m currently working at [Infraspeak](https://infraspeak.com/) as Software Engineering Team Lead
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-rui-martins-/)
